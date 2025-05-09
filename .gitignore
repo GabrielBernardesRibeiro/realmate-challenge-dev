@@ -253,3 +253,9 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
+
+# Ignorando o node_modules
+.frontend/node_modules/
+
+# Igorando .env do frontend
+.frontend/.env
